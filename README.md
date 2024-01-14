@@ -6,7 +6,7 @@ Demonstrating control theory, our project utilizes a PID controller to maintain 
 
 - [Introduction](#introduction)
 - [Physical Setup](#physical-setup)
-- 
+
 ## Introduction
 
 In this project, we aimed to design and control a ball and beam system using a PID controller. The objective was to develop a system that could maintain the position of the ball at a specific location on the beam, despite disturbances or changes in the system parameters. We used a microcontroller, servo motor, ultrasonic sensors, and other components to design the system.
@@ -18,5 +18,14 @@ To construct the physical ball and beam system, plywood serves as the primary ma
 2. Servo-motor positioning ensures the top beam shaft aligns nearly perpendicularly to the ground in a balanced state.
 3. Ultra-sonic sensors are strategically placed for accurate readings, targeting the ball's center.
 4. Bearings and a pencil secure the top beam, preventing horizontal movement and unwanted vibrations during controller tuning.
-![Screenshot 2024-01-14 160216](https://github.com/aman32hhjbb/Ball-Beam-System-/assets/109418796/ae17c3b0-c0ff-4d80-9b4a-f9021432d920)
-![Screenshot 2024-01-14 160156](https://github.com/aman32hhjbb/Ball-Beam-System-/assets/109418796/c538901f-491f-4ca0-8bff-88c5d846cdb7)
+
+<p align="center">
+  <img src="https://github.com/aman32hhjbb/Ball-Beam-System-/assets/109418796/c538901f-491f-4ca0-8bff-88c5d846cdb7" alt="Ball and Beam System">
+</p>
+
+<p align="center">
+  <img src="https://github.com/aman32hhjbb/Ball-Beam-System-/assets/109418796/dd15a10b-c842-4682-a363-0b48fb6b3746" alt="Ball and Beam System">
+</p>
+
+
+  
